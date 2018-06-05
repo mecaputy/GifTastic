@@ -1,0 +1,17 @@
+.container {
+    width: 960px;
+}
+
+button {
+    color: white;
+    background-color: teal;
+    margin: 10px;
+    padding: 5px 10px;
+}
+
+#add-animal {
+    color: white;
+    background-color: teal;
+    margin: 10px;
+    padding: 5px 10px;
+}
