@@ -3,7 +3,7 @@ var animals = ["dog", "cat", "rabbit", "hamster", "skunk"];
 function display() {
 
     var userInput = $(this).attr("value");
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" +
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
         userInput + "&api_key=YD0szooQbzKyuftqi9OoQZwr8r4YItjy&limit=10";
 
 
